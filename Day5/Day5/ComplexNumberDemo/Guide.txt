@@ -1,0 +1,13 @@
+class used to create user defined data types
+
+Req: Complex Number with Real and Imaginary part
+
+Object : instance of class or variable of class
+
+class define properties/attributes and behaviors/methods for Object
+
+class controls access to properties/attributes and behaviors/methods
+ using access specifier
+ 
+ 
+ 3+j4  real + j img
